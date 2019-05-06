@@ -1,0 +1,8 @@
+Utilizar latex online:
+https://www.overleaf.com/
+
+Utilizar latex offline:
+  - Baixar compilador miktex:
+    https://miktex.org/download
+  - Baixar ambiente TexStudio:
+    https://www.texstudio.org/
